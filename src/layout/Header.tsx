@@ -6,7 +6,7 @@ import Wrapper from "@/shared/Wrapper"
 const Header = () => {
   return (
     <Wrapper>
-    <header className="flex justify-between py-6 sticky top-0  items-center backdrop-blur-sm  ">
+    <header className="flex justify-between py-6 sticky top-0  items-center ">
         {/* logo */}
         <div>
        

@@ -14,7 +14,7 @@ const Footer = () => {
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth={2}
-        className="w-10 h-10 text-black p-2 bg-lime-300 rounded-full"
+        className="w-10 h-10 text-black p-2 bg-lime-700 rounded-full"
         
       >
         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
